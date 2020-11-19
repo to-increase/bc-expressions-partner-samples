@@ -1,0 +1,5 @@
+*/.vscode/*
+*.app
+*/app/.codeAnalysis/thisproject.ruleset.json
+*/launch.json
+*/.alpackages/
